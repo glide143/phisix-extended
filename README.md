@@ -104,6 +104,6 @@ Simple PSEi (formerly known as PHISIX) RESTful API hosted on Google AppEngine
 # 🧩 Preparing a development environment
 
 ## 📝 Prerequisites
-- An IDE such as [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Spring Tools(STS)](https://www.jetbrains.com/idea/) and etc.
-- Maven
-- Java 17
+- An IDE such as [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Spring Tools(STS)](https://spring.io/tools) and etc.
+- [Maven](https://maven.apache.org/)
+- [Java 17](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html)
