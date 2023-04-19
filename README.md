@@ -8,7 +8,7 @@ phisix
 
 Simple PSEi (formerly known as PHISIX) RESTful API hosted on Google AppEngine
 
-###Resources Summary###
+### Resources Summary
 
 **Stocks**: look up stocks
 
@@ -16,7 +16,7 @@ Simple PSEi (formerly known as PHISIX) RESTful API hosted on Google AppEngine
     GET http://phisix-api.appspot.com/stocks/{symbol}.{json|xml}
     GET http://phisix-api.appspot.com/stocks/{symbol}.{yyyy-MM-dd}.{json|xml}
 
-###JSON feeds###
+### JSON feeds
 
 <table>
 	<tr>
@@ -56,7 +56,7 @@ Simple PSEi (formerly known as PHISIX) RESTful API hosted on Google AppEngine
 	</tr>
 </table>
 
-###XML feeds###
+### XML feed
 
 <table>
 	<tr>
@@ -96,6 +96,14 @@ Simple PSEi (formerly known as PHISIX) RESTful API hosted on Google AppEngine
 	</tr>
 </table>
 
-###XSD###
+### XSD
 
 [http://phisix-api.appspot.com/schema/stocks/phisix-stocks.xsd](http://phisix-api.appspot.com/schema/stocks/phisix-stocks.xsd)
+
+
+# 🧩 Preparing a development environment
+
+## 📝 Prerequisites
+- An IDE such as [IntelliJ IDEA](https://www.jetbrains.com/idea/), [Spring Tools(STS)](https://www.jetbrains.com/idea/) and etc.
+- Maven
+- Java 17
